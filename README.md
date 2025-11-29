@@ -14,52 +14,52 @@ This project simplifies the process by enabling farmers to receive automatic SMS
 
 ## Features
 
-Real-time soil moisture monitoring using digital/analog sensors.
+1. Real-time soil moisture monitoring using digital/analog sensors.
 
-IoT-enabled automatic SMS alerts via Twilio or GSM module.
+2. IoT-enabled automatic SMS alerts via Twilio or GSM module.
 
-Cloud dashboard access for live moisture data visualization.
+3. Cloud dashboard access for live moisture data visualization.
 
-Low cost, low power microcontroller-based system (ESP32/NodeMCU/Arduino).
+4. Low cost, low power microcontroller-based system (ESP32/NodeMCU/Arduino).
 
-Scalable design adaptable for large-scale farm fields.
+5. Scalable design adaptable for large-scale farm fields.
 
-Easy integration with irrigation pumps for automation.
+6. Easy integration with irrigation pumps for automation.
 
-JSON-based lightweight data communication.
+7. JSON-based lightweight data communication.
 
-Highly reliable and simple architecture for deployment in rural areas.
+8. Highly reliable and simple architecture for deployment in rural areas.
 
 ## Requirements
 ### Hardware Requirements
 
-Soil Moisture Sensor (Capacitive/Resistive)
+1. Soil Moisture Sensor (Capacitive/Resistive)
 
-NodeMCU / ESP8266 / ESP32 / Arduino UNO
+2. NodeMCU / ESP8266 / ESP32 / Arduino UNO
 
-Wi-Fi or GSM connectivity module
+3. Wi-Fi or GSM connectivity module
 
-5V/3.3V Power Supply
+5. 5V/3.3V Power Supply
 
-Jumper Cables
+6. Jumper Cables
 
-Breadboard / PCB
+7. Breadboard / PCB
 
-Relay Module (optional, for pump control)
+8. Relay Module (optional, for pump control)
 
 ### Software Requirements
 
-Operating System: Windows 10/11 or Ubuntu (64-bit)
+1. Operating System: Windows 10/11 or Ubuntu (64-bit)
 
-Programming Environment: Arduino IDE or VS Code with PlatformIO
+2. Programming Environment: Arduino IDE or VS Code with PlatformIO
 
-IoT Platform: Thingspeak / Firebase / Blynk / Custom API
+3. IoT Platform: Thingspeak / Firebase / Blynk / Custom API
 
-SMS Gateway: Twilio API for message notifications
+4. SMS Gateway: Twilio API for message notifications
 
 Libraries Needed:
 
-ESP8266WiFi / WiFi.h
+### ESP8266WiFi / WiFi.h
 
 HTTPClient
 
