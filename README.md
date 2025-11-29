@@ -77,20 +77,32 @@ Cloud Dashboard (optional): Thingspeak / Firebase
 
 ## System Architecture
 
-(Replace with your diagram)
+<img width="1010" height="604" alt="image" src="https://github.com/user-attachments/assets/e1530e73-46df-4e22-888f-b6d9041ac25e" />
 
-Fig: System Architecture of Soil Moisture IoT Notification System
-Block Flow:
-Soil Moisture Sensor → Microcontroller → Cloud / API → SMS Notification → User (Farmer)
+
+#### Fig: System Architecture of Soil Moisture IoT Notification System
+
+## Block Flow:
+
+<img width="967" height="616" alt="image" src="https://github.com/user-attachments/assets/78597d40-3e68-4dd4-8624-dc1ee9949f5a" />
+
 
 ## Output
 ### Output 1 – Moisture Level Dashboard
 
-(Screenshot of Thingspeak/Blynk dashboard)
+#### Threshold value below 700(soil wet)
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/df15d596-66c1-43ea-b1fe-3b59f31e94cf" />
+
+#### Threshold value above 700(soil dry-sends alert message)
+<img width="1918" height="1032" alt="image" src="https://github.com/user-attachments/assets/e092c05f-37ee-4be6-be2d-b5fff7b17298" />
+
 
 ### Output 2 – SMS Notification
 
-(Screenshot of received SMS alert)
+#### Sent Notification when soil is dry:
+
+![WhatsApp Image 2025-11-29 at 15 38 56](https://github.com/user-attachments/assets/e18208bb-8e60-480b-ab07-f78e618be9f2)
+
 
 ### Detection Accuracy
 
