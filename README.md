@@ -57,9 +57,9 @@ This project simplifies the process by enabling farmers to receive automatic SMS
 
 4. SMS Gateway: Twilio API for message notifications
 
-Libraries Needed:
+### Libraries Needed:
 
-### ESP8266WiFi / WiFi.h
+ESP8266WiFi / WiFi.h
 
 HTTPClient
 
